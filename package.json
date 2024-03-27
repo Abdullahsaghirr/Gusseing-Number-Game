@@ -1,5 +1,5 @@
 {
-  "name": "guessing-no-project-4",
+  "name": "@abdullah/guessing.no.project.4",
   "version": "1.0.0",
   "description": "this is cli numbers based guessing game",
   "main": "index.js",
