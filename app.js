@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 console.log("Guess a number between 1 to 10");
 // now variable create
 let a = Math.floor(Math.random() * 10);

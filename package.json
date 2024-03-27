@@ -1,14 +1,18 @@
 {
-  "name": "guessing-no-project-4",
+  "name": "@abdullah-47/guessing-no-project-4",
   "version": "1.0.0",
-  "description": "",
+  "description": "thsi is cli numbers based guessing game",
   "main": "index.js",
   "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Abdullah",
   "license": "ISC",
   "devDependencies": {
     "@types/inquirer": "^9.0.7",
