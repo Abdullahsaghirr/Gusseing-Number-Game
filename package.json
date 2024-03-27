@@ -1,7 +1,7 @@
 {
   "name": "guessing-no-project-4",
   "version": "1.0.0",
-  "description": "thsi is cli numbers based guessing game",
+  "description": "this is cli numbers based guessing game",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
