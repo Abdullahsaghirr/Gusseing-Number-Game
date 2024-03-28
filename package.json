@@ -1,6 +1,6 @@
 {
   "name": "@abdullah77/guessing-no-project-4",
-  "version": "2.0.1`",
+  "version": "1.0.2`",
   "description": "this is cli numbers based guessing game",
   "main": "app.js",
   "type": "module",
