@@ -19,7 +19,6 @@
     "@types/node": "^20.11.30"
   },
   "dependencies": {
-    "guessing-no-project-4": "^1.0.0",
     "inquirer": "^9.2.16"
   }
 }
